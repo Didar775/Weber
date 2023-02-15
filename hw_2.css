@@ -1,0 +1,174 @@
+.header {
+    background-color: #faf4f2;
+    position: absolute;
+    top: 0;
+    width: 1800px;
+    height: 80px;
+    
+    
+}
+
+.head_l {
+    position:absolute;
+    left: 60px;
+    font-size: 24px;
+
+    
+}
+
+.head_r {
+    position: absolute;
+    font-size: 24px;
+    right: 80px;
+}
+
+.card {
+    position:relative;
+    top :143px;
+    left: 75px;
+    background-color: rgb(87, 214, 28);
+}
+.card1 {
+    position:absolute;
+    background-color: #faf4f2;
+    width: 274px;
+    height: 340px;
+    border-radius: 10px;
+    
+
+}
+
+.card_th {
+    font-size: 30px;
+    margin-left: 20px;
+    margin-right:50px ;
+    
+}
+
+.card_c {
+    top:5px ;
+    margin-left :20px; 
+    font-size: 20px;
+    margin-right: 50px;
+
+}
+
+.card2 {
+    position: absolute;
+    width: 274px;
+    height: 340px;
+    top :300px;
+    margin-top: 80px;
+    background-color:#faf4f2; 
+    border-radius: 10px;  
+    
+}
+
+.card3 {
+    position: absolute;
+    width: 274px;
+    height: 340px;
+    top :700px;
+    margin-top: 60px;
+    background-color:#faf4f2;  
+    border-radius: 10px; 
+    
+}
+
+.big_card {
+
+    position:relative;
+    background-color: #faf4f2;
+    width: 1200x;
+    height: 345px;
+    top :133px;
+    left: 440px;
+    border-radius: 10px;
+
+}
+
+.big_card_text {
+    position:absolute;
+    margin-left :30px; 
+    font-size: 20px;
+    margin-top: 30px;
+    
+
+}
+
+.line {
+   height: 1px;
+   width: 1570px;
+   background-color: #faf4f2;
+   position: relative;
+   margin-top: 970px;
+
+   
+}
+.ers_text {
+    position: relative;
+    width: 1600px;
+    top: 50px;
+    left: 75px;
+    height: 280px;
+    font-size: 40px;
+}
+.ers_text_th {
+    position: relative;
+    left: 500px;
+}
+
+.contact
+{
+    font-size: 18px;
+    position: relative;
+    top: 200px;
+    left: 75px;
+
+}
+.button {
+    width: 150px;
+    height: 40px;
+    background-color: #2e6ca6;
+    position: relative;
+    border-radius: 10px;
+   margin-top: 220px;
+   margin-left: 75px;
+
+}
+
+.details{
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 35px;
+    
+}
+
+.last_text_box {
+    width: 1800px;
+    height: 480px;
+    background-color: #faf4f2;
+    position: relative;
+    top: px;
+   
+}
+
+.last_text_c {
+   margin-left: 75px;
+   margin-top: 200px;
+
+}
+.last_text_c1{
+    margin-left: 75px;
+    margin-top: 200px;
+ 
+ }
+.last_text_y {
+   
+}
+
+.jabu {
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 198px;
+}
