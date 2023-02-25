@@ -1,0 +1,23 @@
+* {
+    margin :0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background: white;
+    width: 100%;
+    top:0;
+    left: 0;
+    height: 70px;
+    position: fixed;
+    padding-left:200px;
+    padding-top:20px ;
+    color:antiquewhite;
+    background-color: rgb(27, 21, 21);
+    font-weight: bold;
+    font-size: 25px;
+    border-bottom: rgb(167, 174, 177) solid 2px;
+   
+}
+
